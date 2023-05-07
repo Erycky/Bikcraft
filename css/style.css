@@ -1,6 +1,6 @@
 @import "./global/global.css";
 @import "./utilidades/tipografia.css";
-@import "/css/utilidades/cores.css";
+@import "./utilidades/cores.css";
 
 @import "./global/header.css";
 
@@ -9,6 +9,7 @@
 
 /* Home */
 @import "./home/introducao.css";
+@import "./home/tecnologia.css";
 
 /* Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
